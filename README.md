@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-![Data Analyst Icon](https://image-url.com/data_analyst_icon.png)
+![Data Analyst Icon](https://static.vecteezy.com/system/resources/previews/006/402/818/original/person-monitoring-online-chart-flat-icon-of-data-analyst-vector.jpg)
 
 Welcome to my "Portfolio Projects" repository! 🚀
 
